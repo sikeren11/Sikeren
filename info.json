@@ -4,4 +4,9 @@
    "devices": ["qplrnsjq"],
    "expiry": "30-04-2024 12:00 PM"
 },
+  "sikeren01": {
+   "password": "$2y$12$LayX0tXf7kKmwl7uAbkS7eEgMC4n.BaV6CXkth1AfvkgPLrBi9IAa",
+   "devices": ["REDMINOTE9PRO8F821C3ADFEBE55C"],
+   "expiry": "30-04-2024 12:59 PM"
+},
 }
